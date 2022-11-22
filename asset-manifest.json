@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nz-road-trip/static/css/main.8014278f.css",
+    "main.js": "/nz-road-trip/static/js/main.f736e6ce.js",
+    "static/js/787.28cb0dcd.chunk.js": "/nz-road-trip/static/js/787.28cb0dcd.chunk.js",
+    "static/media/sites.png": "/nz-road-trip/static/media/sites.4bf51218aa77aca90690.png",
+    "index.html": "/nz-road-trip/index.html",
+    "main.8014278f.css.map": "/nz-road-trip/static/css/main.8014278f.css.map",
+    "main.f736e6ce.js.map": "/nz-road-trip/static/js/main.f736e6ce.js.map",
+    "787.28cb0dcd.chunk.js.map": "/nz-road-trip/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8014278f.css",
+    "static/js/main.f736e6ce.js"
+  ]
+}
